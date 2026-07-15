@@ -1,6 +1,6 @@
 # ComfyUI Sprite Generator
-
-A ComfyUI workflow for generating pixel art sprites from character images and pose references.
+I've been digging into learning Unity/C# and needed some art to play around with as I learn. 
+This is a ComfyUI workflow for generating pixel art sprites from character images and pose references.
 
 ![Workflow](workflow.png)
 
